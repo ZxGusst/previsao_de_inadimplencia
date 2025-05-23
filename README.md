@@ -9,7 +9,7 @@ https://previsaodeinadimplencia-44hpw9znrgzhfnef7xgxxw.streamlit.app
 - **Gustavo dos Santos Alves**
 - **Matheus Neiva Soares**
 - **Thiago Pereira Dantas**
-
+- **Edson Marcelino Luiz Neto
 ---
 
 ## Introdução
