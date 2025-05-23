@@ -3,7 +3,7 @@ https://previsaodeinadimplencia-44hpw9znrgzhfnef7xgxxw.streamlit.app
 
 # Previsão de Inadimplência de Crédito
 
-## Grupo 8
+## Grupo 7
 
 - **Cayky Emilio Vieira Neves**
 - **Gustavo dos Santos Alves**
